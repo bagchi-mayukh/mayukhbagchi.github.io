@@ -12,7 +12,7 @@ title                    : "MAYUKH BAGCHI"
 title_separator          : "-"
 name                     : &name "Mayukh Bagchi"
 description              : &description "Welcome to my world of interdisciplinary research!"
-url                      : https://mayukhbagchi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://mayukhbagchi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bagchi-mayukh/mayukhbagchi.github.io"
 
